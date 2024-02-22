@@ -7,6 +7,7 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <Router>
@@ -19,7 +20,8 @@ function App() {
       </Routes>
       <Footer />
     </Router>
-  );
+  )
 }
+
 
 export default App;
