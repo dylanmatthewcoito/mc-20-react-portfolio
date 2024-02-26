@@ -10,18 +10,26 @@ function Portfolio() {
       projectUrl: ''
     },
     {
-        title: '',
-        imageUrl: '',
-        projectUrl: ''
+      title: 'Travelers Event Forecaster',
+      imageUrl: '',
+      projectUrl: ''
     },
     {
+      title: 'Password Generator',
+      imageUrl: '',
+      projectUrl: ''
 
+    },
+    {
+      title: 'National Park API Assignment',
+      imageUrl: '',
+      projectUrl: ''
     }
   ];
 
   return (
     <div className="container mt-4">
-      <h2 className="text-center mb-4">Portfolio Projects</h2>
+      <h1 className="text-center mb-4">Portfolio Projects</h1>
       <div className="row g-4">
         {projects.map((project, index) => (
           <div className="col-md-6 d-flex" key={index}>

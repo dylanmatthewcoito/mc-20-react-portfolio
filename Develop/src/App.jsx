@@ -25,3 +25,6 @@ function App() {
 
 
 export default App;
+
+
+//install shadcn ui with vite... for simple ui components

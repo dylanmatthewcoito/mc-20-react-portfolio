@@ -3,7 +3,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div className="contact-form-section">
+    <div className="contact-form-section text-center rounded-lg p-4">
       <h2>Contact</h2>
       <form className="my-4">
         <div className="mb-3">
@@ -18,9 +18,9 @@ function Contact() {
           <label htmlFor="message" className="form-label">Message:</label>
           <textarea className="form-control" id="message" rows="3"></textarea>
         </div>
-        <button type="submit" className="btn btn-primary">Send Message</button>
+        <button type="submit" className="btn btn-primary">Send Message!</button>
       </form>
-    </div>
+</div>
   )
 }
 

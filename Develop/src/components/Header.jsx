@@ -1,14 +1,14 @@
 import React from 'react';
-import Navigation from './Navigation'; 
+import Navigation from './Navigation';
 
 
 function Header() {
   return (
     <header className="bg-secondary text-white py-3">
-      <h1>Dylan Matthew Coito</h1>
-      <nav className="nav justify-content-center">
+      <div className="container d-flex justify-content-between align-items-center">
+        <h1>Dylan Coito's Portfolio</h1>
         <Navigation />
-      </nav>
+      </div>
     </header>
   )
 }
