@@ -2,17 +2,12 @@
 
 ## Deployed Application 
 
-[
-](https://preeminent-cucurucho-73286c.netlify.app)
+[Dylan Coito's Portolio Deployed on Netlfiy](https://preeminent-cucurucho-73286c.netlify.app)
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This React portfolio application, which incorporates Bootstrap styling, was designed to provide a comprehensive platform for showcasing my professional experience and accomplishments. Structured into distinct sections such as "About Me," "Projects," "Contact," and "Resume," this portfolio enables me to craft a personalized and engaging online presence. By leveraging the customizable layout and intuitive interface, I can effectively highlight my skills, projects, and contact information, ensuring that visitors gain valuable insights into my capabilities and qualifications. This versatile and dynamic portfolio template is well-suited for enhancing my visibility and making a favorable impression on potential clients or employers.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Portfolio Images
 
@@ -23,4 +18,4 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+* This project uses code from the [mikeys-portfolio] project, available at [.](https://github.com/EmpireAntz/mikeys-portfolio)https://github.com/EmpireAntz/mikeys-portfolio 
