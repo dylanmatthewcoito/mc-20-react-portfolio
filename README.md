@@ -24,9 +24,10 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![portfolioaboutme](https://github.com/dylanmatthewcoito/mc3-password-generator/assets/71201051/917afc76-f56a-4c83-a7be-0dd5aa02b032)
+![portfolioprojects](https://github.com/dylanmatthewcoito/mc3-password-generator/assets/71201051/83eb36d0-d96a-4f02-9cda-91a47f5b05b7)
+![portfoliocontact](https://github.com/dylanmatthewcoito/mc3-password-generator/assets/71201051/d479ad07-9000-490d-b551-0fd299035e4a)
+![portfolioresume](https://github.com/dylanmatthewcoito/mc3-password-generator/assets/71201051/07606d5d-3034-4f09-88fd-ab36b4031e60)
 
 ## Credits
 
