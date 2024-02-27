@@ -4,7 +4,7 @@ import React from 'react'
 function Contact() {
   return (
     <div className="contact-form-section text-center rounded-lg p-4">
-      <h2>Contact</h2>
+      <h1>Contact</h1>
       <form className="my-4">
         <div className="mb-3">
           <label htmlFor="name" className="form-label">Name:</label>

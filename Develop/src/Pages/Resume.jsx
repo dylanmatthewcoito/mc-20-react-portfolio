@@ -1,11 +1,11 @@
 import React from 'react';
-// import Resume from ''
+
 
 const Resume = () => {
   //const skills = ['JavaScript', 'CSS', 'HTML5', 'Git', 'React', 'MySQL', 'MongoDB', 'etc..', ];
 
   return (
-    <div>
+    <div style={{ marginBottom: '150px' }}>
       <h1 className="contact-form-section text-center rounded-lg p-4">My Resume</h1>
       <h3 className="contact-form-section rounded-pill bg-black text-center rounded-lg p-4">Download my resume <a href="https://docs.google.com/document/d/1R0Y2quU4vk6XWc7pyThAFijNgJodFVW8me-bUj0uBYY/edit?usp=sharing" style={{ backgroundColor: 'black' }}>here</a></h3>
       {/* <h2>Technical Skills</h2>

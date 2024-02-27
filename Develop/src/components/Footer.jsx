@@ -4,17 +4,17 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer className="contact-form-section text-center rounded-lg p-4">
-      <div className="contact-form-section text-center rounded-lg p-4">
-        <a href="https://www.linkedin.com/in/dylan-coito-78a4178a/" className="me-3" target="_blank" rel="noopener noreferrer">
+    <footer className="text-center bg-black rounded-lg p-0 fixed-bottom">
+      <div className="text-center bg-black rounded-lg p-4">
+        <a href="https://www.linkedin.com/in/dylan-coito-78a4178a/" className="text-white me-3" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-linkedin-in"></i>
         </a>
-        <a href="https://github.com/dylanmatthewcoito" className="" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/dylanmatthewcoito" className="text-white" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i>
         </a>
         {/* <a href="" className="" target="_blank" rel="noopener noreferrer">
             <i className=""></i>
-          </a> */}
+        </a> */}
       </div>
     </footer>
   )
