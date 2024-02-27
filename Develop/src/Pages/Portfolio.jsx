@@ -6,30 +6,21 @@ function Portfolio() {
   const projects = [
     {
       title: 'Convo',
-      imageUrl: '',
-      projectUrl: ''
+      description: '',
+      imageUrl: '../convoapp.png',
+      projectUrl: 'https://convo-instant-messenger-4970551bdc0f.herokuapp.com/'
     },
     {
       title: 'Travelers Event Forecaster',
-      imageUrl: '',
-      projectUrl: ''
-    },
-    {
-      title: 'Password Generator',
-      imageUrl: '',
-      projectUrl: ''
-
-    },
-    {
-      title: 'National Park API Assignment',
-      imageUrl: '',
-      projectUrl: ''
+      description: '',
+      imageUrl: '../travelersforecaster.png',
+      projectUrl: 'https://dylanmatthewcoito.github.io/travelerseventforecaster/'
     }
   ];
 
   return (
     <div className="container mt-4">
-      <h1 className="text-center mb-4">Portfolio Projects</h1>
+      <h1 className="text-center text-white mb-4">Portfolio Projects</h1>
       <div className="row g-4">
         {projects.map((project, index) => (
           <div className="col-md-6 d-flex" key={index}>

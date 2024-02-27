@@ -4,8 +4,8 @@ import Navigation from './Navigation';
 
 function Header() {
   return (
-    <header className="bg-secondary text-white py-3">
-      <div className="container d-flex justify-content-between align-items-center">
+    <header className="text-white py-3" /*style={{ backgroundColor: 'black' }}*/  style={{ backgroundColor: 'black', color: 'white', padding: '10px', position: 'sticky', top: '0', zIndex: '100' }}>
+      <div className="container d-flex justify-content-between align-items-center" style={{ backgroundColor: 'black' }} >
         <h1>Dylan Coito's Portfolio</h1>
         <Navigation />
       </div>

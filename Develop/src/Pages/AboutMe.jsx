@@ -10,7 +10,7 @@ function AboutMe() {
             <img src="./public/F6BFEFED-856A-4423-9EC4-E8D0506C7567_1_105_c.jpeg" alt="Profile picture of Dylan Coito" className="img-fluid rounded my-3" style={{ maxWidth: '250px' }} />
             <p className="contact-form-section  p-4">
                 
-                My name is Dylan and I am a Full-Stack Software Engineer. My main language is Javascript with an emphasis in
+                My name is Dylan and I am a Full-Stack Software Engineer. My primary language is Javascript with an emphasis in
                 React applications. I am from northern California and I reside in Davis, CA currently. I have worked in
                 several different areas before becoming a developer including: Brewing, Beekeeping, Teaching, Service Industry,
                 and working at a 5-star hotel. I enjoy camping, hiking, photography, and attending concerts. I am very excited to

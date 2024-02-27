@@ -1,10 +1,11 @@
 import React from 'react'
+//import { Link } from 'react-router-dom'
 
 
 function Footer() {
   return (
-    <footer className="text-center py-3">
-      <div className="container">
+    <footer className="contact-form-section text-center rounded-lg p-4">
+      <div className="contact-form-section text-center rounded-lg p-4">
         <a href="https://www.linkedin.com/in/dylan-coito-78a4178a/" className="me-3" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-linkedin-in"></i>
         </a>
@@ -20,4 +21,4 @@ function Footer() {
 }
 
 
-export default Footer;
+export default Footer
